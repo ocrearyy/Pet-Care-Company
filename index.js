@@ -15,6 +15,10 @@ app.get("/", (req, res) => {
   res.render("home");
 });
 
+app.get("/about", (req, res) => {
+  res.render("about");
+})
+
 app.get("/cats", (req, res) => {
   const cats = ["Blue", "Rocket", "Monty", "STephanie", "Winston"];
   res.render("cats", { cats });
