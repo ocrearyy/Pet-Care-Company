@@ -225,3 +225,17 @@ top: 300px;
 .line {
     height: 1.125px;
 }
+
+.about-img {
+    width: 100%;
+}
+
+.about-para {
+    margin: 40px;
+}
+
+.about-text {
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
