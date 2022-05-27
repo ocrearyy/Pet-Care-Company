@@ -243,3 +243,30 @@ top: 300px;
 .about-footer {
     margin: 0px;
 }
+
+.form-center {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+.form-group {
+    margin: 0px;
+}
+
+.btn-info {
+    justify-content: right;
+    margin-top: 20px;
+}
+
+.btn-sub {
+    display: flex;
+    justify-content: right;
+}
+
+#home-info1 {
+    margin-top: 120px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
