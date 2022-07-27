@@ -4,6 +4,8 @@ A Pet Care Company that provides loving and convenient pet care services: from p
 
 ## Screenshots
 
+![nbsmx](https://user-images.githubusercontent.com/40554384/181345092-e54e3f00-033a-4c12-a459-ddabc86b2657.png)
+
 
 
 ## 🚀 About Me
