@@ -14,7 +14,7 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Built With
 
-- ExpressJS , JavaScript
+- ExpressJS , NodeJS
 - FrameWork used is BootStrap
 - Git, GitHub, VsCode, google fonts.
 
